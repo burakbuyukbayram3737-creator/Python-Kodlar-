@@ -1,0 +1,13 @@
+urun1=int(input("lütfen ürün fiyatı giriniz..: ")
+
+urun2=int(input("lütfen ürün fiyatı giriniz..: ")
+
+toplam urun1+urun2
+
+
+if toplam>200:
+           indirim=toplam - toplam*25/100
+           print("ürünün indirimli satış fiyatı, ", indirim)
+
+else:
+    print("ürün satış fiyatı"toplam)
