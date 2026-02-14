@@ -1,0 +1,8 @@
+bagaj=int(input("Lütfen Bavulunuzun Kilogramını Giriniz...: "))
+
+if bagaj>20:
+    toplam=(bagaj-20)*10
+    print("Ödenecek Tutar,",toplam)
+
+else:
+    print("Ödenecek Tutar Yok")
