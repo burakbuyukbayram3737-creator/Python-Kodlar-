@@ -1,0 +1,13 @@
+acı1=int(input("Lütfen Açıyı Giriniz...: "))
+
+acı2=int(input("Lütfen Açıyı Giriniz...: "))
+
+acı3=int(input("Lütfen Açıyı Giriniz...: "))
+
+x=acı1+acı2+acı3
+
+if x==180:
+print("Bu bir üçgendir")
+
+else:
+print("Üçgen değildir")
