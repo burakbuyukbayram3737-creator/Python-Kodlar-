@@ -1,0 +1,8 @@
+ad=input("Kullanıcı Adınızı Giriniz....: ")
+sifre=input("Şifrenizi Giriniz...: ")
+
+if ad=="Türkiye" and sifre=="1923":
+   print("Hesabınıza Giriş Yapılıyor...")
+
+else:
+  print("Bilgileriniz Yanlış.")
