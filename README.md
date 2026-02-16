@@ -1,2 +1,2 @@
 # Python-Kodlar-
-Merhaba Burada Python Dersimizide Yaptığım Kodları Paylaşıyorum
+Merhaba Burada Python Temelli Kodlama Dersimizde Yaptığım Kodları Paylaşıyorum
