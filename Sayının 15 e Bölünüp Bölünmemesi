@@ -1,0 +1,7 @@
+sayı1=int(input("LÜTFEN SAYIYI GİRİNİZ...: "))
+
+if sayı1%3==0 and sayı1%5==0:
+    print("SAYI 15 E TAM BÖLÜNÜR")
+
+else:
+  print("SAYI 15 E BÖLÜNMEZ")
