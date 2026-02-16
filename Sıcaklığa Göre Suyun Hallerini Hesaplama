@@ -1,0 +1,10 @@
+su=int(input("sıcaklığı giriniz...: "))
+
+if su>100:
+    print("GAZ")
+
+elif 0>su and su<100:
+    print("Sıvı")
+
+else:
+    print("KATI")
