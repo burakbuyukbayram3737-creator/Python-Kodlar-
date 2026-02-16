@@ -1,0 +1,19 @@
+sayı1=int(input("Sayı gir...: "))
+sayı2=int(input("Sayı gir...: "))
+
+islem=input("LÜTFEN YAPMAK İSTEDİĞİNİZ İŞLEMİ SEÇİNİZ + - * /")
+
+if islem=="+":
+    print (sayı1+sayı2)
+
+elif islem=="-":
+    print (sayı1-sayı2)
+
+elif islem=="*":
+    print(sayı1*sayı2)
+
+elif islem=="/":
+    print(sayı1/sayı2)
+
+else:
+    print("Yanlış İşlem Seçildi.")
