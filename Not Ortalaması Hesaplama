@@ -1,0 +1,10 @@
+notl=int(input("Sınav Notunuzu Giriniz...: "))
+not2=int(input("Sınav Notunuzu Giriniz...: "))
+
+ort=(notl+not2)/2
+
+if ort>50 and notl or not2==100:
+    print("Başarılı oldunuz")
+
+else:
+    print("Başarılı Olamadınız")
