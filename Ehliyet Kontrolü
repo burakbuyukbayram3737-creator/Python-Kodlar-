@@ -1,0 +1,7 @@
+ehliyet-input("Ehliyetiniz Varm...: ")
+
+if ehliyet=="EVET":
+print("işe alındınız")
+
+else:
+print("işe alınmadınız")
