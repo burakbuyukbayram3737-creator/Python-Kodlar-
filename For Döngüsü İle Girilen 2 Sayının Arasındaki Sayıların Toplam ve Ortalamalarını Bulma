@@ -1,0 +1,13 @@
+s1=int(input("1.SAYI GİR..: "))
+s2=int(input("2.SAYI GİR..: "))
+
+toplam=0
+
+for x in range(s1,s2):
+    toplam=toplam+x
+
+ortalama=toplam/(s2-s1)
+
+print(toplam)
+
+print (ortalama)
