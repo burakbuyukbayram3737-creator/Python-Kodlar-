@@ -1,0 +1,2 @@
+for x in "MİTHAT BOYNER":
+    print(x)
