@@ -1,0 +1,4 @@
+meyveler=["armut", "elma", "çilek", "karpuz", "kavun", "kiraz", "nar"]
+
+for x in meyveler:
+    print(x)
