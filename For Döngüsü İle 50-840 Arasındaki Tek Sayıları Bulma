@@ -1,0 +1,3 @@
+for x in range(50,840):
+    if x%2==1:
+        print (x)
