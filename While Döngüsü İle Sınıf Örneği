@@ -1,0 +1,4 @@
+i=1
+while (i<13):
+    print(i,".","Sınıf")
+    i=i+1
